@@ -1,0 +1,9 @@
+console.log(2>1);
+console.log(2==1);
+console.log(2!=1);
+//比较运算符返回的是布尔值；
+//比较运算符会自动将操作数转换为数字；
+//比较运算符会自动将操作数转换为数字；
+console.log(1===2);
+//严格相等
+console.log(null==undefined);
